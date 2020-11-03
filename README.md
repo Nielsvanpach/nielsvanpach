@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+```php
+$me = Developer::create([
+    firstName: 'Niels',
+    lastName: 'Vanpachtenbeke',
+    company: 'Spatie',
+    twitter: 'https://twitter.com/NielsVanpach',
+]);
+```
+
+```php
+"require": {
+    "php": "^8.0",
+}
+```
+
 <!--
 **Nielsvanpach/nielsvanpach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
