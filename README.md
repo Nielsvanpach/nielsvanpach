@@ -9,12 +9,6 @@ $me = Developer::create([
 ]);
 ```
 
-```php
-"require": {
-    "php": "^8.0",
-}
-```
-
 [![Niels's github stats](https://github-readme-stats.vercel.app/api?username=nielsvanpach&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
