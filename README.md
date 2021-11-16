@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋
+
 
 ```php
 $me = Developer::create(
@@ -8,6 +9,7 @@ $me = Developer::create(
     twitter: 'https://twitter.com/NielsVanpach',
 );
 ```
+-->
 
 [![Niels's github stats](https://github-readme-stats.vercel.app/api?username=nielsvanpach&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
