@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ```php
-$me = Developer::create([
+$me = Developer::create(
     firstName: 'Niels',
     lastName: 'Vanpachtenbeke',
     company: 'Spatie',
     twitter: 'https://twitter.com/NielsVanpach',
-]);
+);
 ```
 
 [![Niels's github stats](https://github-readme-stats.vercel.app/api?username=nielsvanpach&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
